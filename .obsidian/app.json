@@ -2,5 +2,6 @@
   "promptDelete": false,
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "static"
+  "newFileFolderPath": "static",
+  "attachmentFolderPath": "static"
 }
