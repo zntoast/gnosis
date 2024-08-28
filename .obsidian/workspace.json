@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "0b8f9e3f41087cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1dff735dbf2ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50df022a1c0cb7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络运维/使用wireguard进行多设备异地组网.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "238db3fde303c71c",
+    "type": "split",
+    "children": [
+      {
+        "id": "61868ea0894a6f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedefb8617b3d558",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3342128a2894ea35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a39be5945f4a8da4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18935fef53bd9afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "56cff258b792a7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34dc45135203d8f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "网络运维/使用wireguard进行多设备异地组网.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78ee247ada0f02a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "网络运维/使用wireguard进行多设备异地组网.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56a091483e946b07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78e0e8a83a71a388",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "网络运维/使用wireguard进行多设备异地组网.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "50df022a1c0cb7ef",
+  "lastOpenFiles": [
+    "网络运维/使用wireguard进行多设备异地组网.md",
+    "64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
+    "static",
+    "cbc60bb3a1d886785690c1d3cc8fe019.jpg",
+    "README.md",
+    "未命名.canvas",
+    "2024-08-28.md",
+    "网络运维"
+  ]
+}
