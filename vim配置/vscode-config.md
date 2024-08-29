@@ -167,18 +167,6 @@
     
     
     },
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": [
-                    "annotation.xidl",
-                ],
-                "settings": {
-                    "foreground": "#777777"
-                }
-            }
-        ]
-    },
     "explorer.confirmDelete": false,
     "git.confirmSync": false,
     "editor.fontVariations": false,
@@ -190,15 +178,6 @@
     "docker.commands.build": "${containerCommand} build --pull --rm -f \"${dockerfile}\" -t ${tag} \"${context}\"",
     "workbench.colorTheme": "Default Dark+",
     "editor.suggest.showStatusBar": true,
-    "extensions.experimental.affinity": {
-        "asvetliakov.vscode-neovim": 1
-    },
-    "editor.codeActionsOnSave": {
-        
-    },
-    "workbench.settings.applyToAllProfiles": [
-    
-    ],
     "codeium.enableConfig": {
         "*": false
     },
