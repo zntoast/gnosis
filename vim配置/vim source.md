@@ -1,0 +1,1 @@
+[Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn) :    很好的关于vim的文档，介绍了vim的发展历史，哲学方面的内容，提供代码和演示帮助理解和解析其中的一些专业名词，适合刚入门vim的新人进行学习研究。

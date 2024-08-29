@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim配置/vimrc.md",
+                "file": "vim配置/vim source.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim配置/vimrc.md",
+                "file": "vim配置/vim source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim配置/vimrc.md",
+                "file": "vim配置/vim source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim配置/vimrc.md"
+                "file": "vim配置/vim source.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "50df022a1c0cb7ef",
   "lastOpenFiles": [
-    "vim配置/vscode-config.md",
     "vim配置/vimrc.md",
+    "vim配置/vim source.md",
+    "static/vim从入门到精通.md",
+    "vim配置/vscode-config.md",
     "网络运维/使用wireguard进行多设备异地组网.md",
     "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "vim配置",
