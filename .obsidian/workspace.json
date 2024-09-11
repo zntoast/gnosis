@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "面试题库/后端大厂面试题.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8e7bcc4d71673887",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "static/2022_后端开发大厂面试题.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "面试题库/后端大厂面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "面试题库/后端大厂面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md"
+                "file": "面试题库/后端大厂面试题.md"
               }
             }
           }
@@ -133,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +155,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50df022a1c0cb7ef",
+  "active": "bedefb8617b3d558",
   "lastOpenFiles": [
-    "go知识梳理/Go的内存管理.md",
-    "go知识梳理/网络文章汇总.md",
-    "vim配置/vscode-config.md",
+    "未命名.canvas",
+    "面试题库/后端大厂面试题.md",
+    "static/2022_后端开发大厂面试题.pdf",
     "static/Graphviz.md",
-    "go知识梳理",
+    "go知识梳理/Go的内存管理.md",
+    "面试题库",
+    "vim配置/vscode-config.md",
     "vim配置/vim source.md",
     "vim配置/vimrc.md",
+    "go知识梳理/网络文章汇总.md",
+    "go知识梳理",
     "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "static/vim从入门到精通.md",
     "网络运维/使用wireguard进行多设备异地组网.md",
@@ -164,7 +177,6 @@
     "static",
     "cbc60bb3a1d886785690c1d3cc8fe019.jpg",
     "README.md",
-    "未命名.canvas",
     "2024-08-28.md"
   ]
 }
