@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题库/后端大厂面试题.md",
+                "file": "go知识梳理/Go的内存管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +23,16 @@
             "id": "8e7bcc4d71673887",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "static/2022_后端开发大厂面试题.pdf"
+                "file": "go知识梳理/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试题库/后端大厂面试题.md",
+                "file": "go知识梳理/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试题库/后端大厂面试题.md",
+                "file": "go知识梳理/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试题库/后端大厂面试题.md"
+                "file": "go知识梳理/未命名.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,22 +159,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bedefb8617b3d558",
+  "active": "78e0e8a83a71a388",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "面试题库/后端大厂面试题.md",
     "static/2022_后端开发大厂面试题.pdf",
-    "static/Graphviz.md",
+    "go知识梳理/未命名.md",
+    "go知识梳理/网络文章汇总.md",
     "go知识梳理/Go的内存管理.md",
+    "面试题库/后端大厂面试题.md",
+    "网络运维/使用wireguard进行多设备异地组网.md",
+    "未命名.canvas",
+    "static/Graphviz.md",
     "面试题库",
     "vim配置/vscode-config.md",
     "vim配置/vim source.md",
     "vim配置/vimrc.md",
-    "go知识梳理/网络文章汇总.md",
     "go知识梳理",
     "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "static/vim从入门到精通.md",
-    "网络运维/使用wireguard进行多设备异地组网.md",
     "vim配置",
     "64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "网络运维",
