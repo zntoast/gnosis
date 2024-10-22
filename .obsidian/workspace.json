@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "go知识梳理/Go的内存管理.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "go知识梳理/Go的内存管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "go知识梳理/Go的内存管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md"
+                "file": "go知识梳理/Go的内存管理.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "31b0bbe976562c34",
   "lastOpenFiles": [
-    "go知识梳理/Go的内存管理.md",
     "go知识梳理/网络文章汇总.md",
+    "go知识梳理/Go的内存管理.md",
     "static/Graphviz.md",
     "vim配置/vscode-config.md",
     "go知识梳理",
