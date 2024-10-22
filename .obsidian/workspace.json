@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "go知识梳理/Go的内存管理.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -147,19 +147,20 @@
   },
   "active": "31b0bbe976562c34",
   "lastOpenFiles": [
+    "go知识梳理/go的面试总结.md",
+    "go知识梳理/网络文章汇总.md",
+    "static/2022_后端开发大厂面试题.pdf",
+    "go知识梳理/Go的内存管理.md",
+    "go知识梳理/未命名.md",
+    "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
+    "vim配置/vscode-config.md",
+    "vim配置/vim source.md",
+    "vim配置/vimrc.md",
+    "网络运维/使用wireguard进行多设备异地组网.md",
     "面试题库/后端大厂面试题.md",
     "面试题库",
-    "vim配置/vim source.md",
-    "static/2022_后端开发大厂面试题.pdf",
-    "go知识梳理/未命名.md",
-    "go知识梳理/网络文章汇总.md",
-    "go知识梳理/Go的内存管理.md",
     "static/Graphviz.md",
-    "vim配置/vscode-config.md",
     "go知识梳理",
-    "vim配置/vimrc.md",
-    "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
-    "网络运维/使用wireguard进行多设备异地组网.md",
     "vim配置",
     "64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "网络运维",
