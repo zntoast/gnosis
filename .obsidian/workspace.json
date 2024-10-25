@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络运维/使用wireguard进行多设备异地组网.md",
+                "file": "网络运维/dockerfile文件配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用wireguard进行多设备异地组网"
+              "title": "dockerfile文件配置"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络运维/使用wireguard进行多设备异地组网.md"
+                "file": "网络运维/dockerfile文件配置.md"
               },
               "icon": "lucide-list",
-              "title": "使用wireguard进行多设备异地组网 的大纲"
+              "title": "dockerfile文件配置 的大纲"
             }
           }
         ],
@@ -177,10 +177,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bedefb8617b3d558",
+  "active": "8e7bcc4d71673887",
   "lastOpenFiles": [
-    "面试题库/后端大厂面试题.md",
     "网络运维/使用wireguard进行多设备异地组网.md",
+    "网络运维/dockerfile文件配置.md",
+    "面试题库/后端大厂面试题.md",
     "go知识梳理/编译原理过程.md",
     "go知识梳理/go的面试总结.md",
     "go知识梳理/网络文章汇总.md",
