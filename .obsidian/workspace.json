@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络运维/dockerfile文件配置.md",
+                "file": "mysql/实用sql语句.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dockerfile文件配置"
+              "title": "实用sql语句"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络运维/dockerfile文件配置.md"
+                "file": "mysql/实用sql语句.md"
               },
               "icon": "lucide-list",
-              "title": "dockerfile文件配置 的大纲"
+              "title": "实用sql语句 的大纲"
             }
           }
         ],
@@ -179,8 +179,10 @@
   },
   "active": "8e7bcc4d71673887",
   "lastOpenFiles": [
-    "网络运维/使用wireguard进行多设备异地组网.md",
     "网络运维/dockerfile文件配置.md",
+    "mysql/实用sql语句.md",
+    "mysql",
+    "网络运维/使用wireguard进行多设备异地组网.md",
     "面试题库/后端大厂面试题.md",
     "go知识梳理/编译原理过程.md",
     "go知识梳理/go的面试总结.md",
