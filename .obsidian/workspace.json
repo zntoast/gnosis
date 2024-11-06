@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "前端/vite使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络文章汇总"
+              "title": "vite使用"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md"
+                "file": "前端/vite使用.md"
               },
               "icon": "lucide-list",
-              "title": "网络文章汇总 的大纲"
+              "title": "vite使用 的大纲"
             }
           }
         ],
@@ -179,11 +179,14 @@
   },
   "active": "8e7bcc4d71673887",
   "lastOpenFiles": [
+    "go知识梳理/网络文章汇总.md",
+    "前端/vite使用.md",
+    "前端/vue框架",
+    "前端",
     "go知识梳理/go的面试总结.md",
     "go知识梳理/Go的内存管理.md",
     "go知识梳理/编译原理过程.md",
     "mysql/实用sql语句.md",
-    "go知识梳理/网络文章汇总.md",
     "static/2022_后端开发大厂面试题.pdf",
     "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "vim配置/vim source.md",
