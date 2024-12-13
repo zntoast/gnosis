@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go知识梳理/go-advance.md",
+                "file": "go知识梳理/go-generics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "go-advance"
+              "title": "go-generics"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go知识梳理/go-advance.md"
+                "file": "go知识梳理/go-generics.md"
               },
               "icon": "lucide-list",
-              "title": "go-advance 的大纲"
+              "title": "go-generics 的大纲"
             }
           }
         ],
@@ -193,6 +193,12 @@
   },
   "active": "43f2edfb02eb7367",
   "lastOpenFiles": [
+    "go知识梳理/go-advance.md",
+    "go知识梳理/go-generics.md",
+    "网络运维/network-troubleshooting.md",
+    "运维知识/network-troubleshooting.md",
+    "运维知识",
+    "go知识梳理/go-memory-management.md",
     "vim配置/vim-advance.md",
     "docker部署/搭建etcd 服务.md",
     "docker部署/搭建mysql.md",
@@ -224,7 +230,6 @@
     "vim配置",
     "64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "网络运维",
-    "static",
     "cbc60bb3a1d886785690c1d3cc8fe019.jpg",
     "2024-08-28.md"
   ]
