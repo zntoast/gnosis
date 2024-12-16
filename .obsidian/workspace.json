@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go知识梳理/go-generics.md",
+                "file": "go知识梳理/泛型使用指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "go-generics"
+              "title": "泛型使用指南"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go知识梳理/go-generics.md"
+                "file": "go知识梳理/泛型使用指南.md"
               },
               "icon": "lucide-list",
-              "title": "go-generics 的大纲"
+              "title": "泛型使用指南 的大纲"
             }
           }
         ],
@@ -194,7 +194,12 @@
   "active": "43f2edfb02eb7367",
   "lastOpenFiles": [
     "go知识梳理/go-advance.md",
-    "go知识梳理/go-generics.md",
+    "go知识梳理/泛型使用指南.md",
+    "go知识梳理/限流器实现.md",
+    "go知识梳理/go-advanced-utils-4.md",
+    "go知识梳理/go-advanced-utils-3.md",
+    "go知识梳理/go-advanced-utils-2.md",
+    "go知识梳理/go-common-utils.md",
     "网络运维/network-troubleshooting.md",
     "运维知识/network-troubleshooting.md",
     "运维知识",
@@ -221,16 +226,12 @@
     "README.md",
     "面试题库/后端大厂面试题.md",
     "mysql",
-    "网络运维/使用wireguard进行多设备异地组网.md",
     "未命名.canvas",
-    "static/Graphviz.md",
     "面试题库",
     "go知识梳理",
-    "static/vim从入门到精通.md",
     "vim配置",
     "64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
     "网络运维",
-    "cbc60bb3a1d886785690c1d3cc8fe019.jpg",
-    "2024-08-28.md"
+    "cbc60bb3a1d886785690c1d3cc8fe019.jpg"
   ]
 }
