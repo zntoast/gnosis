@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go知识梳理/网络文章汇总.md",
+                "file": "go知识梳理/go的面试总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络文章汇总"
-            }
-          },
-          {
-            "id": "8e7bcc4d71673887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go知识梳理/限流器实现.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "限流器实现"
+              "title": "go的面试总结"
             }
           },
           {
@@ -47,8 +33,7 @@
               "title": "99a5ec5fb2a508daca0c90677f309752"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go知识梳理/编译原理过程.md",
+                "file": "go知识梳理/go的面试总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "编译原理过程 的反向链接列表"
+              "title": "go的面试总结 的反向链接列表"
             }
           },
           {
@@ -139,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go知识梳理/编译原理过程.md",
+                "file": "go知识梳理/go的面试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "编译原理过程 的出链列表"
+              "title": "go的面试总结 的出链列表"
             }
           },
           {
@@ -154,7 +140,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -166,10 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go知识梳理/限流器实现.md"
+                "file": "go知识梳理/go的面试总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "限流器实现 的大纲"
+              "title": "go的面试总结 的大纲"
             }
           }
         ],
@@ -189,43 +180,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e7bcc4d71673887",
+  "active": "50df022a1c0cb7ef",
   "lastOpenFiles": [
-    "go知识梳理/go的面试总结.md",
-    "mysql/实用sql语句.md",
-    "go知识梳理/错误日志.md",
-    "go知识梳理/数组的使用.md",
-    "go知识梳理/限流器实现.md",
     "go知识梳理/网络文章汇总.md",
-    "go知识梳理/泛型使用指南.md",
-    "go知识梳理/错误处理封装.md",
-    "go知识梳理/编译原理过程.md",
-    "docker部署/构建go web项目镜像.md",
-    "static/Pasted image 20241227113109.png",
-    "docker部署/搭建etcd 服务.md",
-    "docker部署/搭建mysql.md",
-    "docker部署/docker安装配置.md",
-    "docker部署/dockerfile文件配置.md",
-    "前端/vite使用.md",
+    "go知识梳理/限流器实现.md",
+    "go知识梳理/数组的使用.md",
     "go知识梳理/内存管理.md",
-    "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
-    "static/99a5ec5fb2a508daca0c90677f309752.png",
-    "static/Pasted image 20241225175259.png",
-    "网络运维/使用wireguard进行多设备异地组网.md",
-    "go知识梳理/go-advance.md",
-    "go知识梳理/go-advanced-utils-4.md",
-    "go知识梳理/go-advanced-utils-3.md",
-    "go知识梳理/go-advanced-utils-2.md",
-    "go知识梳理/go-common-utils.md",
-    "网络运维/network-troubleshooting.md",
-    "运维知识/network-troubleshooting.md",
-    "运维知识",
-    "go知识梳理/go-memory-management.md",
+    "static/2022_后端开发大厂面试题.pdf",
+    "vim配置/vim source.md",
     "vim配置/vim-advance.md",
+    "vim配置/vim学习网址.md",
+    "README.md",
+    "static/99a5ec5fb2a508daca0c90677f309752.png",
+    "mysql/实用sql语句.md",
+    "static/2025-02-19.md",
+    "go知识梳理/go遇到的疑难问题.md",
+    "go知识梳理/go的面试总结.md",
+    "go知识梳理/错误处理封装.md",
+    "go知识梳理/错误日志.md",
+    "go知识梳理/泛型使用指南.md",
+    "static/未命名.md",
+    "docker部署/docker安装配置.md",
+    "docker部署/搭建mysql.md",
+    "vim配置/vimrc.md",
+    "vim配置/vscode-config.md",
+    "前端/vite使用.md",
+    "网络运维/使用wireguard进行多设备异地组网.md",
+    "docker部署/搭建etcd 服务.md",
+    "docker部署/构建go web项目镜像.md",
+    "go知识梳理/编译原理过程.md",
+    "static/Pasted image 20241227113109.png",
+    "static/64d9ca43-5aa3-4860-a3c5-383804ed4d0d.png",
+    "static/Pasted image 20241225175259.png",
+    "运维知识",
     "docker部署",
     "前端/vue框架",
     "前端",
-    "static/2022_后端开发大厂面试题.pdf",
     "mysql",
     "未命名.canvas",
     "面试题库",
